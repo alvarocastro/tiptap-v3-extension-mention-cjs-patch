@@ -1,5 +1,5 @@
 {
-  "name": "tiptap-v3-extension-mention-cjs-patch",
+  "name": "@tiptap/extension-mention",
   "description": "mention extension for tiptap v3 patched for cjs",
   "version": "3.0.9",
   "homepage": "https://tiptap.dev",
